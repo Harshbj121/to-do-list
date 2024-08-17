@@ -1,0 +1,2 @@
+i have use node-js , react and mysql to creat this to-do-list app project to add , display and delete data from mysql database .
+to run this app please create mysql database name todo and inside it create table name tasks . 
